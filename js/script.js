@@ -1,4 +1,4 @@
-const text = "Audio/Video Streaming, Music NFT Marketplace, SocialFi.";
+const text = "Audio/Video Streaming, Music NFT Marketplace and Ticketing.";
 const typingText = document.querySelector(".typing-text");
 let index = 0;
 
